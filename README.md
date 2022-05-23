@@ -21,5 +21,7 @@ These are some really interesting articles I have found on my journey that I rec
 [Python Data Science Handbook](https://media-exp1.licdn.com/dms/document/C561FAQGw5Olv2VFj9A/feedshare-document-pdf-analyzed/0/1639468147577?e=1654128000&v=beta&t=IZ3or57fSMsOvGQAM67F1Nzlx3QuPOUnrt1K4jA7oqk)
 
 
-Analytical skills for AI and data science-O'reilly chapter
+[Analytical skills for AI and data science-O'reilly chapter](https://get.oreilly.com/rs/107-FMS-070/images/Analytical-Skills-for-AI-and-Data-Science-ch2.pdf?mkt_tok=MTA3LUZNUy0wNzAAAAGDKQYhtV_tTPH9z72264hEJqVhD1ycJzX5JUe0F8kw5twN34mL7xznAfcQ0u_3J11I0I-LiJeRGd-OqMKt7LF-Yjfq1cGTdajRpxBslxpuvhFV2slg)
+
+
 
