@@ -13,4 +13,13 @@ These are some really interesting articles I have found on my journey that I rec
 
 [Machine learning algorithms for regression](https://towardsdatascience.com/top-machine-learning-algorithms-for-regression-c67258a2c0ac)
 
+[Create stunning visualisations in Pandas dataframes](https://towardsdatascience.com/advanced-pandas-plots-e2347a33d576)
+
+
+# Interesting books
+
+[Python Data Science Handbook](https://media-exp1.licdn.com/dms/document/C561FAQGw5Olv2VFj9A/feedshare-document-pdf-analyzed/0/1639468147577?e=1654128000&v=beta&t=IZ3or57fSMsOvGQAM67F1Nzlx3QuPOUnrt1K4jA7oqk)
+
+
+Analytical skills for AI and data science-O'reilly chapter
 
