@@ -2,7 +2,7 @@
 These are some really interesting articles I have found on my journey that I recommend reading
 
 
-[Interactive guide to hypothesis testing in python](https://towardsdatascience.com/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85![image](https://user-images.githubusercontent.com/95719026/169739443-1e092d3b-4452-47ac-ade7-b5aa638c0b57.png)
+[Interactive guide to hypothesis testing in python](https://towardsdatascience.com/an-interactive-guide-to-hypothesis-testing-in-python-979f4d62d85)
 
 [Really good intro  article!!!! With videos and links to other concepts in stats/machine learning-- one of my favourite articles!](https://towardsdatascience.com/stats-gist-list-an-irreverent-statisticians-guide-to-jargon-be8173df090d)
 )
